@@ -1,0 +1,27 @@
+h2{
+    color: aqua;
+ font-family: roboto
+}
+h1{
+    color: brown;
+    text-align: center;
+        border: 3px dashed blue;
+        width: 30%;
+}
+h2,p{
+    color: blueviolet!important
+}
+.learn{
+    color: rgb(21, 255, 0);
+}
+ .first> p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+    width: 10%;
+}
+
+#iddd:link{
+    color: tomato;
+}
