@@ -1,6 +1,6 @@
 h2{
     color: aqua;
- font-family: roboto
+ font-family: "Roboto"
 }
 h1{
     color: brown;
@@ -21,7 +21,59 @@ h2,p{
     padding: .5em;
     width: 10%;
 }
-
-#iddd:link{
+.first:hover {
     color: tomato;
+} 
+.ttt{
+    width: 150PX;
+    height: 50%;
 }
+.text11{
+    text-decoration: underline;
+}
+h4{
+    font-size: 50px;
+}
+
+
+
+
+
+.block{
+    display: block;
+}
+.mahjoub{
+    display: inline;
+}
+
+.monsof{
+        width: 150px;
+        height: 150px;
+        border: 1px solid red;
+        display: inline-block;
+}
+h1{
+    
+border: 2px solid red
+}
+
+.text11:hover{
+    color: black
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
